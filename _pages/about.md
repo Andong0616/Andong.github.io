@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! My name is Andong Zhuge. I am a second year doctoral student at [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public Administration. Additionally, I completed a second major during my undergraduate studies in Economics at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
 
-My research interests mainly include public finance, governance, public opinion, and inequality. Currently, the main area of my work is wealth inequality in China, especially the widening disparity caused by housing wealth. My research connects public policy/administration, political science, and economics, with work published in Governance. If you want to collaborate, feel free to email me.
+My research interests mainly include public finance, governance, public opinion, and inequality. Currently, the main area of my work is wealth inequality in China, especially the widening disparity caused by housing wealth. My research connects public policy/administration, political science, and economics, with work published in Governance. If you want to collaborate, feel free to email me!
 
 Publications
 ======
