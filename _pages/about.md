@@ -13,38 +13,28 @@ My research interests mainly include public finance, governance, public opinion,
 
 Publications
 ======
-[Chen, Xing](https://xingchen0123.github.io), [Xiaoxiao Shen](https://xiaoxiaoshen.co), and Andong Zhuge. 2023. “Pollution Matters: The Political Cost of Information Disclosure”. Governance: 1-23. [link](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
+[Xing, Chen](https://xingchen0123.github.io), [Xiaoxiao Shen](https://xiaoxiaoshen.co), and Andong Zhuge. 2023. “Pollution Matters: The Political Cost of Information Disclosure”. Governance: 1-23. [link](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
+
+(in Chinese) [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), Andong Zhuge, and Hong Yan. 2023. “How does "sudden spending" affect government performance evaluation? --An empirical study based on micro and inter-provincial panel data”. Public Management and Policy Review (05): 31-46. (张平, 诸葛安东 &  燕洪. (2023). “突击花钱”如何影响政府绩效评价?——基于微观和省际面板数据的实证研究. 公共管理与政策评论 (05), 31-46.)
+
+(in Chinese) [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), Andong Zhuge, and Dean Kong. 2022. “Characteristics, Advantages and Problems of the U.S. Property Tax System”. International Taxation (03): 45-56. (张平, 诸葛安东 &  孔德安. (2022). 美国房地产税制度设计特点、优势和问题辨析. 国际税收 (03), 45-56. doi:10.19376/j.cnki.cn10-1142/f.2022.03.009.)
+
+(in Chinese) [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), Hong Yan, Andong Zhuge, and [Qiang Ren](https://spft.cufe.edu.cn/info/1049/5199.htm). 2023. “An analysis of the international practice of wealth tax and its advantages and disadvantages”. International Taxation (09): 58-67. (张平 , 燕洪 , 诸葛安东 &  任强 . (2023). 财富税国际实践与利弊剖析. 国际税收 (09), 58-67. doi:10.19376/j.cnki.cn10-1142/f.2023.09.006.)
 
 
-Getting started
+
+
+Woeking Papers
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+From Scarcity to Spike: The Impact of Childhood Famine Trauma on Fiscal Expenditure Behavior (First author with [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), [Xing, Chen](https://xingchen0123.github.io)). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4646240). under review
 
-Site-wide configuration
+Land Reform, Emerging Grassroots Democracy and Political Trust: Evidence from China’s Collective Forest Tenure Reform (with [Xing, Chen](https://xingchen0123.github.io), [Yuanyuan Yi](https://nsd.pku.edu.cn/szdw/yjyxl/y6/515466.htm#), and [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm)).[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967). under review
+
+Measuring and Comparing Fiscal Health of Chinese Provincial Governments (corresponding author with [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), [Yu Shi](https://hps.unt.edu/kelly-shi-phd), and [Can Chen](https://aysps.gsu.edu/profile/can-chen/)). under review
+
+
+Additional Information
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Language: English (fluent); Mandarin Chinese (native)
+Software: Stata, LaTeX
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
