@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! My name is Andong Zhuge. I am a second year doctoral student at [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public Administration. Additionally, I completed a second major during my undergraduate studies in Economics at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
+
+My research interests mainly include public finance, governance, public opinion, and inequality. Currently, the main area of my work is wealth inequality in China, especially the widening disparity caused by housing wealth. My research connects public policy/administration, political science, and economics, with work published in Governance. If you want to collaborate, feel free to email me.
 
 A data-driven personal website
 ======
