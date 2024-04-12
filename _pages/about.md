@@ -11,6 +11,7 @@ Hello! My name is Andong Zhuge. I am a second year doctoral student at [School o
 
 My research interests mainly include public finance, governance, public opinion, and inequality. Currently, the main area of my work is wealth inequality in China, especially the widening disparity caused by housing wealth. My research connects public policy/administration, political science, and economics, with work published in Governance. If you want to collaborate, feel free to email me!
 
+
 Publications
 ======
 [Xing, Chen](https://xingchen0123.github.io), [Xiaoxiao Shen](https://xiaoxiaoshen.co), and Andong Zhuge. 2023. “Pollution Matters: The Political Cost of Information Disclosure”. Governance: 1-23. [link](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
@@ -20,8 +21,6 @@ Publications
 (in Chinese) [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), Andong Zhuge, and Dean Kong. 2022. “Characteristics, Advantages and Problems of the U.S. Property Tax System”. International Taxation (03): 45-56. (张平, 诸葛安东 &  孔德安. (2022). 美国房地产税制度设计特点、优势和问题辨析. 国际税收 (03), 45-56. doi:10.19376/j.cnki.cn10-1142/f.2022.03.009.)
 
 (in Chinese) [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), Hong Yan, Andong Zhuge, and [Qiang Ren](https://spft.cufe.edu.cn/info/1049/5199.htm). 2023. “An analysis of the international practice of wealth tax and its advantages and disadvantages”. International Taxation (09): 58-67. (张平 , 燕洪 , 诸葛安东 &  任强 . (2023). 财富税国际实践与利弊剖析. 国际税收 (09), 58-67. doi:10.19376/j.cnki.cn10-1142/f.2023.09.006.)
-
-
 
 
 Woeking Papers
@@ -34,7 +33,7 @@ Measuring and Comparing Fiscal Health of Chinese Provincial Governments (corresp
 
 
 Additional Information
-------
+======
 Language: English (fluent); Mandarin Chinese (native)
 Software: Stata, LaTeX
 
