@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Andong Zhuge. I am a second year doctoral student at [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public Administration. Additionally, I completed a second major during my undergraduate studies in Economics at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
+Hello! My name is Andong Zhuge. I am a second year doctoral student at Department of Public Administration, [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public government. Additionally, I completed a second major of Economics during my undergraduate studies at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
 
-My research interests mainly include public finance, governance, public opinion, and inequality. Currently, the main area of my work is wealth inequality in China, especially the widening disparity caused by housing wealth. My research connects public policy/administration, political science, and economics, with work published in Governance. If you want to collaborate, feel free to email me!
+My research interests mainly include public finance, governance, public opinion, and inequality. Currently, the main area of my research is wealth inequality in China, especially the widening disparity caused by rapid housing wealth change. My research connects public policy / administration, political science, and economics, with work published in Governance. If you want to collaborate, feel free to email me!
 
 
 Publications
@@ -23,7 +23,7 @@ Publications
 (in Chinese) [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), Hong Yan, Andong Zhuge, and [Qiang Ren](https://spft.cufe.edu.cn/info/1049/5199.htm). 2023. “An analysis of the international practice of wealth tax and its advantages and disadvantages”. International Taxation (09): 58-67. (张平 , 燕洪 , 诸葛安东 &  任强 . (2023). 财富税国际实践与利弊剖析. 国际税收 (09), 58-67. doi:10.19376/j.cnki.cn10-1142/f.2023.09.006.)
 
 
-Woeking Papers
+Working Papers
 ======
 From Scarcity to Spike: The Impact of Childhood Famine Trauma on Fiscal Expenditure Behavior (First author with [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), [Xing, Chen](https://xingchen0123.github.io)). [ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4646240). under review
 
