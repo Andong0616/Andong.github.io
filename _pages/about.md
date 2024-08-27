@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Andong Zhuge. I am a third year doctoral student at Department of Public Administration, [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public Management. Additionally, I completed a second major of Economics during my undergraduate studies at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
+Hello! My name is Andong Zhuge (诸葛安东). I am a third year doctoral student at Department of Public Administration, [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public Management. Additionally, I completed a second major of Economics during my undergraduate studies at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
 
 My research interests mainly include public finance, governance, public opinion, and inequality. If you want to collaborate, feel free to email me!
 
