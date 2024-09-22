@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Andong Zhuge (诸葛安东). I am a third year doctoral student at Department of Public Administration, [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public Management. Additionally, I completed a second major of Economics during my undergraduate studies at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
+Hello! My name is Andong Zhuge (诸葛安东). I am a third-year doctoral student at Department of Public Administration, [School of International Relations and Public Affairs (SIRPA)](https://sirpa-en.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn/en/). I obtained my BA in 2020, at SIRPA of Fudan University, majoring in Public Management. Additionally, I completed a second major of Economics during my undergraduate studies at [School of Economics (SOE)](https://econ.fudan.edu.cn/en/), Fudan University. My current advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
 
-My research interests mainly include public finance, governance, public opinion, and inequality. If you want to collaborate, feel free to email me!
+I am currently a visiting scholar at the Center for Policy Research at the Maxwell School of Citizenship and Public Affairs, Syracuse University, where my co-advisor is Professor [Yilin Hou](https://www.maxwell.syr.edu/directory/yilin-hou). My research interests mainly include public finance, governance, public opinion, and inequality. If you want to collaborate, feel free to email me!
 
 
 Publications
 ======
+- [Chen, Xing](https://xingchen0123.github.io), [Jintao Xu](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), [Yuanyuan Yi](https://en.nsd.pku.edu.cn/faculty/researchfellows/531846.htm), [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and Andong Zhuge. 2024. "Land Reform, Emerging Grassroots Democracy and Political Trust in China." World Development. forthcoming.
+
 - [Chen, Xing](https://xingchen0123.github.io), [Peng Zhang](https://pengzhang.weebly.com), [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), and Andong Zhuge. 2024. “The Enduring Trauma: How Officials’ Childhood Famine Experiences Affect Year-End Spending Surge.” Journal of Development Economics. [link](https://www.sciencedirect.com/science/article/pii/S0304387824001056)
 
 - [Xing, Chen](https://xingchen0123.github.io), [Xiaoxiao Shen](https://xiaoxiaoshen.co), and Andong Zhuge. 2023. "Pollution Matters: The Political Cost of Information Disclosure." Governance: 1-23. [link](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
@@ -29,8 +31,6 @@ Publications
 
 Working Papers
 ======
-- Land Reform, Emerging Grassroots Democracy and Political Trust: Evidence from China’s Collective Forest Tenure Reform. (with [Xing, Chen](https://xingchen0123.github.io), [Yuanyuan Yi](https://nsd.pku.edu.cn/szdw/yjyxl/y6/515466.htm#), and [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm)). under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967).
-
 - Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities (with [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), Bo Li, and Siran Lu). under review. [link]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967](https://www.researchsquare.com/article/rs-4170967/v1)).
 
 - Performance Matters: The Impact of Performance Budgeting on Corruption Perception. (first author with [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), and [Can Chen](https://aysps.gsu.edu/profile/can-chen/).
