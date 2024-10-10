@@ -14,7 +14,7 @@ I am currently a visiting graduate student at the Center for Policy Research at 
 
 Publications
 ======
-- [Xing, Chen](https://xingchen0123.github.io), [Jintao Xu](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), [Yuanyuan Yi](https://en.nsd.pku.edu.cn/faculty/researchfellows/531846.htm), [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and Andong Zhuge. 2025. "Land Reform, Emerging Grassroots Democracy and Political Trust in China." World Development. forthcoming. [link](https://www.sciencedirect.com/science/article/pii/S0305750X24002626)
+- [Xing, Chen](https://xingchen0123.github.io), [Jintao Xu](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), [Yuanyuan Yi](https://en.nsd.pku.edu.cn/faculty/researchfellows/531846.htm), [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and Andong Zhuge. 2025. "Land Reform, Emerging Grassroots Democracy and Political Trust in China." World Development. [link](https://www.sciencedirect.com/science/article/pii/S0305750X24002626)
 
 - [Xing, Chen](https://xingchen0123.github.io), [Peng Zhang](https://pengzhang.weebly.com), [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm), and Andong Zhuge. 2024. “The Enduring Trauma: How Officials’ Childhood Famine Experiences Affect Year-End Spending Surge.” Journal of Development Economics. [link](https://www.sciencedirect.com/science/article/pii/S0304387824001056)
 
