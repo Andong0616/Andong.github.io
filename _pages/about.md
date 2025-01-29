@@ -31,11 +31,11 @@ Publications
 
 Working Papers
 ======
-- Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities (with Ping Zhang, Bo Li, and Siran Lu). under review. [link]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967](https://www.researchsquare.com/article/rs-4170967/v1)).
+- Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities (with Ping Zhang, Bo Li, and Siran Lu). under review. [link](https://www.researchsquare.com/article/rs-4170967/v1).
 
-- Performance Matters: The Impact of Performance Budgeting on Corruption. (first author with Ping Zhang, Can Chen, and Weijie Wang.
+- Do Performance Budgeting Reforms Reduce Corruption? Evidence from a Quasi-Experimental Study. (first author with Ping Zhang, Can Chen, and Weijie Wang). under review.
 
-- Who bears the cost? Technological change and employee well-being in public sector. (first author with Ping Zhang, and Jiaheng Ling)
+- Who bears the cost? Technological change and employee well-being in public sector. (first author with Jiaheng Ling).
 
 
 Fundings and Projects
