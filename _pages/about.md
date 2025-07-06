@@ -22,7 +22,7 @@ Publications
 
 - Xing, Chen, Xiaoxiao Shen, and Andong Zhuge. 2023. "Pollution Matters: The Political Cost of Information Disclosure." Governance. [link](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
 
-- (in Chinese) Ping Zhang, Andong Zhuge, and Ye Tian. 2025. "Urban Household Wealth Disparity in China: Overall Assessment, Source Decomposition, and Formation Mechanisms". Finance & Trade Economics. (张平, 诸葛安东 & 田也. 2025. 中国城镇家庭财富差距总体考察、来源分解与形成机制. 财贸经济).
+- (in Chinese) Ping Zhang, Andong Zhuge, and Ye Tian. 2025. "Urban Household Wealth Disparity in China: Overall Assessment, Source Decomposition, and Formation Mechanisms". Finance & Trade Economics. (张平, 诸葛安东 & 田也. 2025. 中国城镇家庭财富差距总体考察、来源分解与形成机制. 财贸经济). [link](https://cmjj.ajcass.com/Admin/Upload/FileDownload/?ContentID=119048&fileName=中国城镇家庭财富差距总体考察、来源分解与形成机制)
 
 - (in Chinese) Ping Zhang, Andong Zhuge, and Hong Yan. 2025. "How Wealth Inequality Affects Life Satisfaction: An Empirical Study Based on Household Survey Data". Comparative Economic & Social System. (张平, 诸葛安东 & 燕洪. 2025. 财富不平等如何影响生活满意度——基于中国家庭追踪调查数据的实证研究. 社会经济体制比较). [link](http://dbase.gslib.com.cn:8000/DRCNet.Mirror.Documents.Web/DocAttachments.aspx?AttachmentId=264848)
 
