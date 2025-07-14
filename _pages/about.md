@@ -41,7 +41,7 @@ Working Papers
 
 - From Assistance to Anxiety: The Negative Impact of AI Usage on Public Servants’ Well-being. (first author with Jiaheng Ling, and Shuping Wang).
 
-- Performance Feedback and Aspiration Level under Stretch Goals: How Target Design Shapes Performance Pressure. (first author with Siyao Zhu).
+- Stretch Goals, Social Aspiration, and Performance Feedback: How Goal Type Shapes Motivational Dynamics in Public Organizations. (first author with Siyao Zhu). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5339528)
 
 
 Fundings and Projects
