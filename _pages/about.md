@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Andong Zhuge (诸葛安东). I am a third-year PhD student at School of International Relations and Public Affairs (SIRPA), Fudan University. I obtained my BA in 2020 at SIRPA of Fudan University, majoring in Public Administration. Additionally, I completed a second major of Economics during my undergraduate studies at School of Economics (SOE), Fudan University. My advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
+Hello! My name is Andong Zhuge (诸葛安东). I am a PhD candidate at School of International Relations and Public Affairs (SIRPA), Fudan University. I obtained my BA in 2020 at SIRPA of Fudan University, majoring in Public Administration. Additionally, I completed a second major of Economics during my undergraduate studies at School of Economics (SOE), Fudan University. My advisor is Professor [Ping Zhang](https://faculty.fudan.edu.cn/zhangping1234/zh_CN/index.htm). 
 
-I am currently a visiting graduate student at the Center for Policy Research, Maxwell School of Citizenship and Public Affairs, Syracuse University, supervised by Professor [Yilin Hou](https://www.maxwell.syr.edu/directory/yilin-hou). My research interests mainly include public finance, fiscal policy, urban policy, and inequality. If you want to collaborate, feel free to email me!
+My research interests mainly include public finance, fiscal policy, urban policy, and inequality. If you want to collaborate, feel free to email me:)
 
 
 Publications
@@ -37,11 +37,13 @@ Working Papers
 ======
 - Do Performance Budgeting Reforms Reduce Corruption? Evidence from a Quasi-Experimental Study. (first author with Ping Zhang, Can Chen, and Weijie Wang). under review.
 
-- Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities (with Ping Zhang, and Bo Li). under review. [link](https://www.researchsquare.com/article/rs-4170967/v1).
+- The Augmentation-Automation Paradox: AI Adoption and its Impact on Public Servants' Well-being. (first author with Jiaheng Ling, and Shuping Wang). under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612450).
 
-- From Assistance to Anxiety: The Negative Impact of AI Usage on Public Servants’ Well-being. (first author with Jiaheng Ling, and Shuping Wang).
+- Stretch Goals, Social Aspiration, and Performance Feedback: How Goal Type Shapes Motivational Dynamics in Public Organizations. (first author with Siyao Zhu, Pan Zhang, and Ping Zhang). under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5339528).
 
-- Stretch Goals, Social Aspiration, and Performance Feedback: How Goal Type Shapes Motivational Dynamics in Public Organizations. (first author with Siyao Zhu). [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5339528)
+- Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities. (corresponding author with Ping Zhang, and Bo Li). under review. [link](https://www.researchsquare.com/article/rs-4170967/v1).
+
+- Threshold Matters: How Heuristic Perceptions of Pollution Affect Governmental Satisfaction. (co-first author with Xing Chen).
 
 
 Fundings and Projects
