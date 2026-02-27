@@ -12,8 +12,9 @@ Hello! My name is Andong Zhuge (诸葛安东). I am a PhD candidate at School of
 My research interests mainly include public finance, fiscal policy, urban policy, and inequality. If you want to collaborate, feel free to email me:)
 
 
-Publications (* for corresponding author)
+Publications
 ======
+(* for corresponding author)
 - Ping Zhang, Jian Wu, Andong Zhuge*, and Bo Li. 2026. "Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities." Journal of Asian Economics. [link](https://www.sciencedirect.com/science/article/pii/S1049007826000333).
 
 - Xing, Chen, Jintao Xu, Yuanyuan Yi, and Andong Zhuge. 2025. "Land Reform, Emerging Grassroots Democracy and Political Trust in China." World Development. [link](https://www.sciencedirect.com/science/article/pii/S0305750X24002626)
