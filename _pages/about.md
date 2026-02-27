@@ -12,21 +12,25 @@ Hello! My name is Andong Zhuge (诸葛安东). I am a PhD candidate at School of
 My research interests mainly include public finance, fiscal policy, urban policy, and inequality. If you want to collaborate, feel free to email me:)
 
 
-Publications
+Publications (* for corresponding author)
 ======
+- Ping Zhang, Jian Wu, Andong Zhuge*, and Bo Li. 2026. "Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities." Journal of Asian Economics. [link](https://www.sciencedirect.com/science/article/pii/S1049007826000333).
+
 - Xing, Chen, Jintao Xu, Yuanyuan Yi, and Andong Zhuge. 2025. "Land Reform, Emerging Grassroots Democracy and Political Trust in China." World Development. [link](https://www.sciencedirect.com/science/article/pii/S0305750X24002626)
 
 - Xing, Chen, Peng Zhang, Ping Zhang, and Andong Zhuge. 2024. “The Enduring Trauma: How Officials’ Childhood Famine Experiences Affect Year-End Spending Surge.” Journal of Development Economics. [link](https://www.sciencedirect.com/science/article/pii/S0304387824001056)
 
-- Ping Zhang, Yu Shi, Can Chen, and Andong Zhuge. 2024. "Measuring and Benchmarking Fiscal Health: A Study of Chinese Provincial Governments." International Journal of Public Administration. [link](https://www.tandfonline.com/doi/abs/10.1080/01900692.2024.2357116)
+- Ping Zhang, Yu Shi, Can Chen, and Andong Zhuge*. 2024. "Measuring and Benchmarking Fiscal Health: A Study of Chinese Provincial Governments." International Journal of Public Administration. [link](https://www.tandfonline.com/doi/abs/10.1080/01900692.2024.2357116)
 
 - Xing, Chen, Xiaoxiao Shen, and Andong Zhuge. 2023. "Pollution Matters: The Political Cost of Information Disclosure." Governance. [link](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
 
-- (in Chinese) Ping Zhang, Andong Zhuge, and Ye Tian. 2025. "Urban Household Wealth Disparity in China: Overall Assessment, Source Decomposition, and Formation Mechanisms". Finance & Trade Economics. (张平, 诸葛安东 & 田也. 2025. 中国城镇家庭财富差距总体考察、来源分解与形成机制. 财贸经济). [link](https://cmjj.ajcass.com/Admin/Upload/FileDownload/?ContentID=119048&fileName=中国城镇家庭财富差距总体考察、来源分解与形成机制)
+- (in Chinese) Andong Zhuge, Ping Zhang, and Chengcheng Hou. 2026. "Supplement or Driver? The Role of Digital Government in Shaping Public Performance Evaluations". Zhejiang Academic Journal. (诸葛安东, 张平 & 侯铖铖. 2026. “锦上添花”还是“雪中送炭”？——数字政府建设对公众政绩评价感知差距的实证研究. 浙江学刊)
+
+- (in Chinese) Ping Zhang, Andong Zhuge*, and Ye Tian. 2025. "Urban Household Wealth Disparity in China: Overall Assessment, Source Decomposition, and Formation Mechanisms". Finance & Trade Economics. (张平, 诸葛安东 & 田也. 2025. 中国城镇家庭财富差距总体考察、来源分解与形成机制. 财贸经济). [link](https://cmjj.ajcass.com/Admin/Upload/FileDownload/?ContentID=119048&fileName=中国城镇家庭财富差距总体考察、来源分解与形成机制)
 
 - (in Chinese) Ping Zhang, Andong Zhuge, and Hong Yan. 2025. "How Wealth Inequality Affects Life Satisfaction: An Empirical Study Based on Household Survey Data". Comparative Economic & Social System. (张平, 诸葛安东 & 燕洪. 2025. 财富不平等如何影响生活满意度——基于中国家庭追踪调查数据的实证研究. 社会经济体制比较). [link](http://dbase.gslib.com.cn:8000/DRCNet.Mirror.Documents.Web/DocAttachments.aspx?AttachmentId=264848)
 
-- (in Chinese) Ping Zhang, Andong Zhuge, and Hong Yan. 2023. "How does "sudden spending" affect government performance evaluation? --An empirical study based on micro and inter-provincial panel data". Public Management and Policy Review. (张平, 诸葛安东 & 燕洪. 2023. “突击花钱”如何影响政府绩效评价?——基于微观和省际面板数据的实证研究. 公共管理与政策评论). [link](http://ggglyzc.ruc.edu.cn/CN/Y2023/V12/I5/31)
+- (in Chinese) Ping Zhang, Andong Zhuge*, and Hong Yan. 2023. "How does "sudden spending" affect government performance evaluation? --An empirical study based on micro and inter-provincial panel data". Public Management and Policy Review. (张平, 诸葛安东 & 燕洪. 2023. “突击花钱”如何影响政府绩效评价?——基于微观和省际面板数据的实证研究. 公共管理与政策评论). [link](http://ggglyzc.ruc.edu.cn/CN/Y2023/V12/I5/31)
 
 - (in Chinese) Ping Zhang, Hong Yan, Andong Zhuge, and Qiang Ren. 2023. "An analysis of the international practice of wealth tax and its advantages and disadvantages". International Taxation. (张平, 燕洪, 诸葛安东 & 任强. 2023. 财富税国际实践与利弊剖析. 国际税收). [link]([https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=SWSW202203005&uniplatform=OVERSEA&v=ILP8ulJzYGMtGOD924NyvVsdcTHg_59wNAGapXcviT94nEDftq3KPowL4JbOfMeR](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=SWSW202309007&uniplatform=OVERSEA&v=1YBSjQSWbNAhjItL8qQqhgsv62_k-gNQ1QDj_SrX8d-F1Ptu82h-NBo_4TGkF86v))
 
@@ -41,10 +45,7 @@ Working Papers
 
 - Stretch Goals, Social Aspiration, and Performance Feedback: How Goal Type Shapes Motivational Dynamics in Public Organizations. (first author with Siyao Zhu, Pan Zhang, and Ping Zhang). under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5339528).
 
-- Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities. (corresponding author with Ping Zhang, and Bo Li). under review. [link](https://www.researchsquare.com/article/rs-4170967/v1).
-
 - Threshold Matters: How Heuristic Perceptions of Pollution Affect Governmental Satisfaction. (co-first author with Xing Chen).
-
 
 Fundings and Projects
 ======                                                                                    
