@@ -15,6 +15,8 @@ My research interests mainly include public finance, fiscal policy, urban policy
 Publications
 ======
 (* for corresponding author)
+- Andong Zhuge, Can Chen, Weijie Wang, and Ping Zhang. 2026 "Do Performance Budgeting Reforms Reduce Corruption? Evidence from a Quasi-Experimental Study." Public Administration Review. Forthcoming.
+
 - Ping Zhang, Jian Wu, Andong Zhuge*, and Bo Li. 2026. "Public Expenditure, Housing Value and Wealth Redistribution: Evidence from Chinese Cities." Journal of Asian Economics. [link](https://www.sciencedirect.com/science/article/pii/S1049007826000333).
 
 - Xing, Chen, Jintao Xu, Yuanyuan Yi, and Andong Zhuge. 2025. "Land Reform, Emerging Grassroots Democracy and Political Trust in China." World Development. [link](https://www.sciencedirect.com/science/article/pii/S0305750X24002626)
@@ -40,8 +42,6 @@ Publications
 
 Working Papers
 ======
-- Do Performance Budgeting Reforms Reduce Corruption? Evidence from a Quasi-Experimental Study. (first author with Ping Zhang, Can Chen, and Weijie Wang). under review.
-
 - The Augmentation-Automation Paradox: AI Adoption and its Impact on Public Servants' Well-being. (first author with Jiaheng Ling, and Shuping Wang). under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5612450).
 
 - Stretch Goals, Social Aspiration, and Performance Feedback: How Goal Type Shapes Motivational Dynamics in Public Organizations. (first author with Siyao Zhu, Pan Zhang, and Ping Zhang). under review. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5339528).
